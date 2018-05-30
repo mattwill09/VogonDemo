@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileProcessor", "FileProcessor\FileProcessor.csproj", "{39748F13-A27E-45A5-A8C2-36EF23DCBD4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIDemo", "APIDemo\APIDemo.csproj", "{C1E1136E-1C17-4D55-9C61-2926281CA9CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaWeb", "LambdaWeb\LambdaWeb.csproj", "{8524AA6E-9CC3-4FF4-9135-64EAB3F89298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39748F13-A27E-45A5-A8C2-36EF23DCBD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39748F13-A27E-45A5-A8C2-36EF23DCBD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39748F13-A27E-45A5-A8C2-36EF23DCBD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39748F13-A27E-45A5-A8C2-36EF23DCBD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1E1136E-1C17-4D55-9C61-2926281CA9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E1136E-1C17-4D55-9C61-2926281CA9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E1136E-1C17-4D55-9C61-2926281CA9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E1136E-1C17-4D55-9C61-2926281CA9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8524AA6E-9CC3-4FF4-9135-64EAB3F89298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8524AA6E-9CC3-4FF4-9135-64EAB3F89298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8524AA6E-9CC3-4FF4-9135-64EAB3F89298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8524AA6E-9CC3-4FF4-9135-64EAB3F89298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51540ABE-06F5-4D67-84A9-E48A2E6C5366}
+	EndGlobalSection
+EndGlobal
